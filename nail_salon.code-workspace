@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/real-web/barber2/Counter-Up-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nail_salon"
+	}
+}
